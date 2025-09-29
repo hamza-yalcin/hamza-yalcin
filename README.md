@@ -2,9 +2,9 @@
 
 💻 I'm a third year Computer Science student at Toronto Metropolitan University (Formerly Ryerson) pursuring a minor in Information Technology Management (Cybersecurity, Data) focus!
 
-🏢 Prev intern at First National Financial LP, and Digital Childcare
+🏢 Prev intern at First National Financial LP, and Digital Childcare.
 
-💡 Constantly learning by building and working on new projects
+💡 Constantly learning by building and working on new projects! 
 
 
 ## 🛠️ Languages & Tools  
