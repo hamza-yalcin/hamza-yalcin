@@ -43,3 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
 </a>
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=hamza-yalcin&color=blue&style=for-the-badge" alt="Profile views"/>
+</p>
+
+
