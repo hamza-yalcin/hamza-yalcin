@@ -1,8 +1,8 @@
 # Hi 👋! I'm Hamza
 
-💻 I'm a third year Computer Science student at Toronto Metropolitan University (Formerly Ryerson) pursuring a minor in Information Technology Management (Cybersecurity, Data) focus!
+💻 I'm a third year Computer Science student at Toronto Metropolitan University (Formerly Ryerson) pursuring a minor in Information Technology Management (Cybersecurity, Data Science) focus!
 
-🏢 Prev intern at First National Financial LP, and Digital Childcare.
+🏢 Prev intern @ First National Financial LP, and Digital Childcare. 
 
 💡 Constantly learning by building and working on new projects! 
 
@@ -35,6 +35,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi"/>
+
 </p>
 
 ## Connect with me!
