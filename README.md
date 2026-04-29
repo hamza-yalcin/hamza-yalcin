@@ -1,15 +1,13 @@
 # Hi 👋! I'm Hamza
 
-💻 I'm a third year Computer Science student at Toronto Metropolitan University (Formerly Ryerson) pursuring a minor in Information Technology Management (Cybersecurity, Data Science) focus!
-
-🏢 Prev intern @ First National Financial LP, and Digital Childcare. 
+💻 I'm a Computer Science student at Toronto Metropolitan University (Formerly Ryerson) pursuring a minor in Information Technology Management (Cybersecurity, Data Science) focus!
 
 💡 Constantly learning by building and working on new projects! 
 
 
 ## 🛠️ Languages & Tools  
 
-<p align="left"> 
+<p style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -47,12 +45,6 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi"/>
 
 </p>
-
-## Connect with me!
-
-<a href="https://www.linkedin.com/in/hamzayalcin/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
-</a>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=hamza-yalcin&color=blue&style=for-the-badge" alt="Profile views"/>
