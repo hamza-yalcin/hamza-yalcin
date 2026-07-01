@@ -1,6 +1,6 @@
 # Hi 👋! I'm Hamza
 
-💻 I'm a Computer Science student at Toronto Metropolitan University (Formerly Ryerson) pursuring a minor in Data & Statistics! 
+💻 I'm a Computer Science student at Toronto Metropolitan University (Formerly Ryerson) pursuring a minor in Data & Statistics with a interest in Cloud and Data!
 
 💡 Constantly learning and developing by building.
 
