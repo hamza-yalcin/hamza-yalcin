@@ -1,6 +1,6 @@
 # Hi 👋! I'm Hamza
 
-💻 I'm a Computer Science student at Toronto Metropolitan University (Formerly Ryerson) with a interest in Data & Finance!
+💻 I'm a Computer Science student at Toronto Metropolitan University (Formerly Ryerson) with a interest in Data, Cybersecurity & Finance!
 
 💡 Constantly learning and developing by building.
 
